@@ -65,10 +65,11 @@ abbr {
 
 header h1 { 
 	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	background-size: 438px 174px;
 	margin-top: 10px;
 	display: block;
-	width: 219px;
-	height: 87px;
+	width: 438px;
+	height: 174px;
 	float: left;
 
 	text-indent: 100%;
